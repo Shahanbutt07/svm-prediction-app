@@ -17,11 +17,4 @@ The application relies on several Python libraries, which are listed in the `req
 - **Requests**: To make HTTP requests, if integrating external APIs.
 - **BeautifulSoup**: For web scraping, if relevant datasets are fetched from the web.
 
-## Installation
 
-To set up the environment and dependencies, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
